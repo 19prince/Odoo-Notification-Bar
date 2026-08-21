@@ -10,7 +10,7 @@ The Odoo module inside this repository is `website_announcement_bar` (its techni
 
 - **Odoo:** 18.0. 19.0 planned.
 - **License:** LGPL-3
-- **Author:** [19 Prince](https://www.19prince.com) — Odoo implementation consultancy.
+- **Author:** [19 Prince](https://www.19prince.com) — Odoo Marketing consultancy.
 
 ---
 
